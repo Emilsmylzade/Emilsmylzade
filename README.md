@@ -1,25 +1,24 @@
 # 👋 Hi, I’m Emil Ismayilzada
 
-AI-focused developer with a background in **Android development**. I enjoy building intelligent, data-driven apps and tools, especially where **AI + mobile + great UX** meet.
+AI-focused developer with a background in **Android development**. I enjoy building intelligent, data-driven apps and tools—especially where **AI + mobile + great UX** meet.
 
 - 🎓 B.S. in Computer Engineering (100% English) — Dokuz Eylul University (2022–Present)
 - 🌍 Based in Baku, Azerbaijan (also active in İzmir, Turkey)
-- 📱 Currently building Android apps with **Kotlin / Java**
-- 🤖 Interested in ML/AI, applied LLMs, and product-minded engineering
+- 📱 Android: Kotlin / Java
+- 🤖 Currently working on **OpenAI SDK**, **agentic workflows**, **RAG**, and applied LLM systems
 
 ---
 
 ## 🔗 Socials & Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-ismayilzada-76338925a/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emilsmylzade/)
 📫 **Email:** ismayilzadeemil0707@gmail.com
 
 ---
 
 ## 🧠 What I Do
+- **LLM Apps:** OpenAI SDK, agentic workflows, RAG pipelines, tool/function calling
 - **Android Development:** Kotlin, Java, Android Studio, Retrofit
-- **AI/ML Engineering:** applied ML, data tools (Pandas/NumPy), LLM integrations (OpenAI Platform)
-- **Backend & APIs:** REST APIs, SQL/SQLite/MySQL, NoSQL
+- **Backend & Data:** REST APIs, SQL/SQLite/MySQL, NoSQL, Python (Pandas/NumPy)
 - **Dev Workflow:** Git/GitHub, Docker, cloud basics (AWS/Azure)
 - **Product & Collaboration:** teamwork, problem-solving, adapting fast
 
@@ -42,17 +41,11 @@ AI-focused developer with a background in **Android development**. I enjoy build
 
 ---
 
-## 🤝 Volunteering
-### Formula 1 Qatar Airways Azerbaijan Grand Prix — Media Communications & Transport Volunteer | Sep 2024
-- Supported coordination between media teams, organizers, and participants to keep operations smooth
-
----
-
 ## 🏅 Certifications
-- Advanced Learning Algorithms — DeepLearning.AI
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization — DeepLearning.AI
-- Supervised Machine Learning: Regression and Classification — DeepLearning.AI
-- Unsupervised Learning, Recommenders, and Reinforcement Learning — DeepLearning.AI
+- Advanced Learning Algorithms — DeepLearning.AI  
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization — DeepLearning.AI  
+- Supervised Machine Learning: Regression and Classification — DeepLearning.AI  
+- Unsupervised Learning, Recommenders, and Reinforcement Learning — DeepLearning.AI  
 - Machine Learning with Python — IBM
 
 ---

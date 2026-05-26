@@ -24,6 +24,7 @@ I enjoy building practical, data-driven applications and tools using **machine l
 - **AI Agents:** OpenAI Agents SDK, multi-agent orchestration, tool calling, run tracing
 - **RAG Systems:** semantic retrieval, keyword search, reranking, evaluation, chunking strategies
 - **LLM Applications:** applied LLM workflows, agentic pipelines, MCP-based systems
+- **Banking & Decision Support AI:** risk scoring, policy-aware search, citation-backed reporting
 - **Backend & Data:** Python, Pandas, NumPy, REST APIs, SQL, NoSQL
 - **Dev Workflow:** Git, GitHub, Docker, AWS, Azure
 - **Product Thinking:** building practical AI tools with real-world use cases and user-focused design
@@ -60,6 +61,20 @@ I enjoy building practical, data-driven applications and tools using **machine l
 
 ## 🚀 Featured Projects
 
+### FinSight-AI — Hybrid Banking Decision Support Platform
+
+A hybrid intelligence platform for banking decision support.  
+FinSight-AI combines **machine learning**, **retrieval-augmented generation**, and **agentic orchestration** to help risk analysts review loan applications, investigate suspicious activity, search internal bank policies, and generate citation-backed decision reports.
+
+**Key features:**
+
+- ML-based customer risk scoring
+- RAG system for searching internal bank policy documents
+- Database-backed customer information retrieval
+- Agentic orchestration that combines ML, RAG, and database tools
+- Citation-backed decision report generation for risk analysts
+- Designed for loan review, suspicious activity investigation, and policy-aware decision support
+
 ### DealHunterAI — Autonomous Deal Discovery
 
 An autonomous multi-agent AI system that hunts for online deals in real time.
@@ -78,7 +93,7 @@ An advanced RAG system where the agent chooses which tools to call and in what o
 - Agentic retrieval
 - Semantic vector search with embeddings and ChromaDB
 - Keyword search for exact terms and names
-- Semantic chunking using an LLM
+- Semantic chunking using an LLM instead of fixed-size chunking
 - LLM-generated chunk summaries
 - Reranking of retrieved chunks
 - Self-evaluation for accuracy, relevance, and completeness
@@ -138,6 +153,9 @@ An evaluation framework for RAG pipelines that measures both retrieval quality a
 ![REST API](https://img.shields.io/badge/REST%20API-%23007bff?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-OpenAI%20Agents%20SDK-black?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blueviolet?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
